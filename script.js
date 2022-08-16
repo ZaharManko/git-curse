@@ -1,1 +1,2 @@
-document.body.innerHTML = '<h1> Hello git from js </h1>'
+document.body.innerHTML = '<h1> Hello git from js </h1>';
+console.log('test 2')
